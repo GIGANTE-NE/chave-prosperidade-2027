@@ -21,8 +21,8 @@ window.SITE = {
 
   // Música de fundo: começa no 1º toque/clique do visitante (navegadores bloqueiam som automático).
   musica: {
-    arquivo: "assets/audio/trilha.mp3",
-    volume: 0.35, // 0 a 1
+    arquivo: "assets/audio/refrao.mp3", // refrão ("virou a chave...") + ponte ("hoje eu sei que curar dá trabalho...") + refrão final, 68 s, em loop
+    volume: 0.28, // 0 a 1 (o refrão é ~3 dB mais alto que a média da música inteira)
   },
 
   frames: {
