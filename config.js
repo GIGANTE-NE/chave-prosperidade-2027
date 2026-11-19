@@ -3,7 +3,7 @@ window.SITE = {
 
   // Link oficial do checkout na Sympla. TODOS os botões "Garantir minha vaga" usam este link.
   // Enquanto estiver vazio, os botões levam ao WhatsApp da organização (com mensagem sobre o ingresso).
-  sympla: "",
+  sympla: "https://www.sympla.com.br/evento/imersao/3660256",
 
   whatsapp: {
     numero: "5519993513673", // só dígitos
